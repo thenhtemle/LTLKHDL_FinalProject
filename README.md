@@ -7,7 +7,7 @@
 ## About the Project:
 ### Dataset:
 - Data type:
-- Source:
-
+- Source: 
+- Overview: Each skillshot performed is characterized by 18 features, composed of players inputs and in-game metrics, collected at different time, creating a multivariate time series.
 ### Goals:
 - 
